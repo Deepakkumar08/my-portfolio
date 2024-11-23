@@ -7,7 +7,7 @@ const Hero = () => {
         <div className='flex flex-wrap'>
             <div className='w-full lg:w-1/2'>
                 <div className='flex flex-col items-center lg:items-start'>
-                <h1 className='pb-16 text-6xl tracking-tight font-medium lg:mt-16 lg:text-4xl'>Deepakkumar Vaitheeswaran</h1>
+                <h1 className='pb-16 text-6xl tracking-tight font-medium lg:mt-16 lg:text-4xl'>Roshini Kumar</h1>
                     <span className='text-2xl tracking-tight text-purple-600'>MERN Stack Developer</span>
                     <p className='my-4 max-w-xl py-6 font-light tracking-tighter'> {HERO_CONTENT}</p>
                 </div>
