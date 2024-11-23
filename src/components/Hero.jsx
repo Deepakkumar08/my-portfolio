@@ -1,6 +1,7 @@
 import React from 'react'
 import { HERO_CONTENT } from '../constants'
 import Deepak from '../assets/Deepak.jpg'
+import IMG_20240623_210436 from '../assets/IMG_20240623_210436.jpg'
 const Hero = () => {
   return (
     <div className='border-b border-neutral-900 pb-4 lg:mb-1'>
@@ -15,7 +16,7 @@ const Hero = () => {
             </div>
             <div className='w-full lg:w-1/2 lg:p-8'>
                 <div className='flex justify-center'>
-                    <img src={Deepak} alt ='Deepak' width={300} height={100}></img>
+                    <img src={IMG_20240623_210436} alt ='Roshini' width={300} height={100}></img>
                 </div>
             </div>
             </div> 
